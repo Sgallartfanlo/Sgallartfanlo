@@ -10,11 +10,11 @@ Sóc apassionat de la tecnologia i la resolució de problemes. La meva experièn
 
 ## 🛠️ Projectes destacats
 
-### 1. 🌐 [Nom del projecte 1](enllaç_al_projecte)
+### 1. 🌐 [Meteosapa]
 Descripció breu del projecte. El que vas aconseguir, quins problemes vas resoldre, i quines eines vas utilitzar.
 
 - **Tecnologies:** Docker, Python, Apache
-- **Link al projecte:** [Enllaç al projecte](enllaç_al_projecte)
+- **Link al projecte:** [Enllaç al projecte](https://github.com/Sgallartfanlo/meteosapa)
 - ![Imatge del projecte 1](link_imatge_del_projecte_1.jpg)
 
 ### 2. 🔧 [Nom del projecte 2](enllaç_al_projecte)
