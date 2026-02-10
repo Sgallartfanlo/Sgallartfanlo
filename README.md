@@ -6,7 +6,7 @@ Benvinguts al meu portafoli! Sóc **Sergi Gallart Fanlo**, un apassionat de la t
 
 Sóc apassionat de la tecnologia i la resolució de problemes. La meva experiència abasta àrees com la gestió de sistemes, el desenvolupament web i l'automatització de processos. M'agrada treballar amb eines modernes i trobar solucions eficients per millorar els projectes en què participo.
 
-![Imatge de perfil](link_a_la_teva_imatge_de_perfil.jpg) <!-- Afegeix la teva imatge aquí -->
+![Imatge de perfil](link_a_la_teva_imatge_de_perfil.jpg)
 
 ## 🛠️ Projectes destacats
 
@@ -15,27 +15,44 @@ Descripció breu del projecte. El que vas aconseguir, quins problemes vas resold
 
 - **Tecnologies:** Docker, Python, Apache
 - **Link al projecte:** [Enllaç al projecte](enllaç_al_projecte)
-- ![Imatge del projecte 1](link_imatge_del_projecte_1.jpg) <!-- Afegeix una imatge rellevant del projecte -->
+- ![Imatge del projecte 1](link_imatge_del_projecte_1.jpg)
 
 ### 2. 🔧 [Nom del projecte 2](enllaç_al_projecte)
 Descripció breu del projecte. El que vas aconseguir, quins problemes vas resoldre, i quines eines vas utilitzar.
 
 - **Tecnologies:** VirtualBox, Powershell, CSS
 - **Link al projecte:** [Enllaç al projecte](enllaç_al_projecte)
-- ![Imatge del projecte 2](link_imatge_del_projecte_2.jpg) <!-- Afegeix una imatge rellevant del projecte -->
+- ![Imatge del projecte 2](link_imatge_del_projecte_2.jpg)
 
 ### 3. 💻 [Nom del projecte 3](enllaç_al_projecte)
 Descripció breu del projecte. El que vas aconseguir, quins problemes vas resoldre, i quines eines vas utilitzar.
 
 - **Tecnologies:** Cisco, HTML, PHP
 - **Link al projecte:** [Enllaç al projecte](enllaç_al_projecte)
-- ![Imatge del projecte 3](link_imatge_del_projecte_3.jpg) <!-- Afegeix una imatge rellevant del projecte -->
+- ![Imatge del projecte 3](link_imatge_del_projecte_3.jpg)
 
 ## 🧰 Habilitats
 
-- **Tecnologies:** Docker, VirtualBox, Apache, Powershell, Cisco, Python, HTML, CSS, PHP
-- **Eines de disseny:** Figma, Photoshop
-- **Metodologies:** Agile, Scrum
+### Infraestructura
+<p>
+  <img src="https://img.shields.io/badge/-Proxmox-orange" />
+  <img src="https://img.shields.io/badge/-Terraform-purple" />
+  <img src="https://img.shields.io/badge/-VirtualBox-blue" />
+  <img src="https://img.shields.io/badge/-Docker-2496ed" /> <!-- Afegit Docker -->
+</p>
+
+### Desenvolupament
+<p>
+  <img src="https://img.shields.io/badge/-PHP-blue" />
+  <img src="https://img.shields.io/badge/-Python-green" />
+  <img src="https://img.shields.io/badge/-Bash-yellowgreen" />
+</p>
+
+### Monitorització
+<p>
+  <img src="https://img.shields.io/badge/-Zabbix-red" />
+  <img src="https://img.shields.io/badge/-Prometheus-orange" />
+</p>
 
 ## 📞 Contacte
 
