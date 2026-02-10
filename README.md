@@ -14,7 +14,6 @@ Descripció breu del projecte. El que vas aconseguir, quins problemes vas resold
 
 - **Tecnologies:** Docker, Python, Apache
 - **Link al projecte:** [Enllaç al projecte](https://github.com/Sgallartfanlo/meteosapa)
-- ![Imatge del projecte 1](link_imatge_del_projecte_1.jpg)
 
 ### 2. 🔧 [Nom del projecte 2](enllaç_al_projecte)
 Descripció breu del projecte. El que vas aconseguir, quins problemes vas resoldre, i quines eines vas utilitzar.
