@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soc en Sergi Gallart Fanlo
 
 
-Benvinguts al meu portafoli! Sóc **Sergi Gallart Fanlo**, estudiant de 2n d'ASIX
+Benvinguts al meu portafoli! Sóc **Sergi Gallart Fanlo**, estudiant de 2n d'ASIX a l'institut Sa Palomera a Blanes [Institut Sa Palomera](https://www.sapalomera.cat/ "Institut Sa Palomera")
 ## 👨‍💻 Qui sóc
 
 Sóc apassionat de la tecnologia i la resolució de problemes. La meva experiència abasta àrees com la gestió de sistemes, i l'automatització de processos. M'agrada treballar amb eines modernes i trobar solucions eficients per millorar els projectes en què participo. A part m'agrada descobrir noves eines per a l'us professional
