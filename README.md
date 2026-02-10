@@ -32,8 +32,6 @@ Descripció breu del projecte. El que vas aconseguir, quins problemes vas resold
 
 ### Infraestructura
 <p>
-  <img src="https://img.shields.io/badge/-Proxmox-orange" />
-  <img src="https://img.shields.io/badge/-Terraform-purple" />
   <img src="https://img.shields.io/badge/-VirtualBox-blue" />
   <img src="https://img.shields.io/badge/-Docker-2496ed" /> <!-- Afegit Docker -->
 </p>
