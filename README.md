@@ -6,7 +6,6 @@ Benvinguts al meu portafoli! Sóc **Sergi Gallart Fanlo**, un apassionat de la t
 
 Sóc apassionat de la tecnologia i la resolució de problemes. La meva experiència abasta àrees com la gestió de sistemes, el desenvolupament web i l'automatització de processos. M'agrada treballar amb eines modernes i trobar solucions eficients per millorar els projectes en què participo.
 
-![Imatge de perfil](link_a_la_teva_imatge_de_perfil.jpg)
 
 ## 🛠️ Projectes destacats
 
