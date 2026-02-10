@@ -1,4 +1,5 @@
-# 🚀 Portafoli de Sergi Gallart Fanlo
+# 👋 ¡Hola! Soc en Sergi Gallart Fanlo
+
 
 Benvinguts al meu portafoli! Sóc **Sergi Gallart Fanlo**, estudiant de 2n d'ASIX
 ## 👨‍💻 Qui sóc
