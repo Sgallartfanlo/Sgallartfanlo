@@ -1,10 +1,9 @@
 # 🚀 Portafoli de Sergi Gallart Fanlo
 
-Benvinguts al meu portafoli! Sóc **Sergi Gallart Fanlo**, un apassionat de la tecnologia amb experiència en diverses eines i tecnologies. Aquí podràs veure una selecció dels meus projectes, així com informació sobre les meves habilitats i enfocament professional.
-
+Benvinguts al meu portafoli! Sóc **Sergi Gallart Fanlo**, estudiant de 2n d'ASIX
 ## 👨‍💻 Qui sóc
 
-Sóc apassionat de la tecnologia i la resolució de problemes. La meva experiència abasta àrees com la gestió de sistemes, el desenvolupament web i l'automatització de processos. M'agrada treballar amb eines modernes i trobar solucions eficients per millorar els projectes en què participo.
+Sóc apassionat de la tecnologia i la resolució de problemes. La meva experiència abasta àrees com la gestió de sistemes, i l'automatització de processos. M'agrada treballar amb eines modernes i trobar solucions eficients per millorar els projectes en què participo. A part m'agrada descobrir noves eines per a l'us professional
 
 
 ## 🛠️ Projectes destacats
