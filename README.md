@@ -10,7 +10,7 @@ Sóc apassionat de la tecnologia i la resolució de problemes. La meva experièn
 
 ## 🛠️ Projectes destacats
 
-### 1. 🌐 [Meteosapa]
+### 1. 🌥️ Meteosapa
 Descripció breu del projecte. El que vas aconseguir, quins problemes vas resoldre, i quines eines vas utilitzar.
 
 - **Tecnologies:** Docker, Python, Apache
@@ -22,7 +22,6 @@ Descripció breu del projecte. El que vas aconseguir, quins problemes vas resold
 
 - **Tecnologies:** VirtualBox, Powershell, CSS
 - **Link al projecte:** [Enllaç al projecte](enllaç_al_projecte)
-- ![Imatge del projecte 2](link_imatge_del_projecte_2.jpg)
 
 ### 3. 💻 [Nom del projecte 3](enllaç_al_projecte)
 Descripció breu del projecte. El que vas aconseguir, quins problemes vas resoldre, i quines eines vas utilitzar.
