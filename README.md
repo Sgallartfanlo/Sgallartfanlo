@@ -12,7 +12,7 @@ Soy un apasionado de la tecnología y la resolución de problemas. Mi experienci
 
 Descripción breve del proyecto. Lo que lograste, qué problemas resolviste y qué herramientas utilizaste.
 
-* **Tecnologías:** Docker, Python, Apache
+* **Tecnologías:** PHP, Python,HTML,CSS
 * **Link al proyecto:** [Enlace al proyecto](https://github.com/Sgallartfanlo/meteosapa)
 
 ### 2. 🔧 [Nombre del proyecto 2](https://www.google.com/search?q=enlace_al_proyecto)
