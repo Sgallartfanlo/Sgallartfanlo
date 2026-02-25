@@ -1,52 +1,57 @@
-# 👋 ¡Hola! Soc en Sergi Gallart Fanlo
+# 👋 ¡Hola!
 
+¡Bienvenidos a mi portafolio! Soy **Sergi Gallart Fanlo**, estudiante de 2º de ASIX en el instituto Sa Palomera en Blanes ([Institut Sa Palomera](https://www.sapalomera.cat/))
 
-Benvinguts al meu portafoli! Sóc **Sergi Gallart Fanlo**, estudiant de 2n d'ASIX a l'institut Sa Palomera a Blanes ([Institut Sa Palomera](https://www.sapalomera.cat/ "Institut Sa Palomera"))
-## 👨‍💻 Qui sóc
+## 👨‍💻 Quién soy
 
-Sóc apassionat de la tecnologia i la resolució de problemes. La meva experiència abasta àrees com la gestió de sistemes, i l'automatització de processos. M'agrada treballar amb eines modernes i trobar solucions eficients per millorar els projectes en què participo. A part m'agrada descobrir noves eines per a l'us professional
+Soy un apasionado de la tecnología y la resolución de problemas. Mi experiencia abarca áreas como la gestión de sistemas y la automatización de procesos. Me gusta trabajar con herramientas modernas y encontrar soluciones eficientes para mejorar los proyectos en los que participo. Además, me encanta descubrir nuevas herramientas para el uso profesional.
 
-
-## 🛠️ Projectes destacats
+## 🛠️ Proyectos destacados
 
 ### 1. 🌥️ Meteosapa
-Descripció breu del projecte. El que vas aconseguir, quins problemes vas resoldre, i quines eines vas utilitzar.
 
-- **Tecnologies:** Docker, Python, Apache
-- **Link al projecte:** [Enllaç al projecte](https://github.com/Sgallartfanlo/meteosapa)
+Descripción breve del proyecto. Lo que lograste, qué problemas resolviste y qué herramientas utilizaste.
 
-### 2. 🔧 [Nom del projecte 2](enllaç_al_projecte)
-Descripció breu del projecte. El que vas aconseguir, quins problemes vas resoldre, i quines eines vas utilitzar.
+* **Tecnologías:** Docker, Python, Apache
+* **Link al proyecto:** [Enlace al proyecto](https://github.com/Sgallartfanlo/meteosapa)
 
-- **Tecnologies:** VirtualBox, Powershell, CSS
-- **Link al projecte:** [Enllaç al projecte](enllaç_al_projecte)
+### 2. 🔧 [Nombre del proyecto 2](https://www.google.com/search?q=enlace_al_proyecto)
 
-### 3. 💻 [Nom del projecte 3](enllaç_al_projecte)
-Descripció breu del projecte. El que vas aconseguir, quins problemes vas resoldre, i quines eines vas utilitzar.
+Descripción breve del proyecto. Lo que lograste, qué problemas resolviste y qué herramientas utilizaste.
 
-- **Tecnologies:** Cisco, HTML, PHP
-- **Link al projecte:** [Enllaç al projecte](enllaç_al_projecte)
-- ![Imatge del projecte 3](link_imatge_del_projecte_3.jpg)
+* **Tecnologías:** VirtualBox, Powershell, CSS
+* **Link al proyecto:** [Enlace al proyecto](https://www.google.com/search?q=enlace_al_proyecto)
 
-## 🧰 Habilitats
+### 3. 💻 [Nombre del proyecto 3](https://www.google.com/search?q=enlace_al_proyecto)
+
+Descripción breve del proyecto. Lo que lograste, qué problemas resolviste y qué herramientas utilizaste.
+
+* **Tecnologías:** Cisco, HTML, PHP
+* **Link al proyecto:** [Enlace al proyecto](https://www.google.com/search?q=enlace_al_proyecto)
+
+## 🧰 Habilidades
 
 ### Infraestructura
+
 <p>
-  <img src="https://img.shields.io/badge/-VirtualBox-blue" />
-  <img src="https://img.shields.io/badge/-Docker-2496ed" /> <!-- Afegit Docker -->
+<img src="https://img.shields.io/badge/-VirtualBox-blue" />
+<img src="https://img.shields.io/badge/-Docker-2496ed" /> </p>
+
+### Desarrollo
+
+<p>
+<img src="https://img.shields.io/badge/-PHP-blue" />
+<img src="https://img.shields.io/badge/-Python-green" />
+<img src="https://img.shields.io/badge/-Bash-yellowgreen" />
 </p>
 
-### Desenvolupament
-<p>
-  <img src="https://img.shields.io/badge/-PHP-blue" />
-  <img src="https://img.shields.io/badge/-Python-green" />
-  <img src="https://img.shields.io/badge/-Bash-yellowgreen" />
-</p>
- ##📞 Contacte
+## 📞 Contacto
 
-Si vols saber més o col·laborar en un projecte, no dubtis en posar-te en contacte amb mi:
+Si quieres saber más o colaborar en un proyecto, no dudes en ponerte en contacto conmigo:
 
-- **Email:** [gallartfanlos@gmail.com](mailto:gallartfanlos@gmail.com) 📧
-- **Telèfon:** 676 182 318 📱
-- **LinkedIn:** [Perfil de Linkedin](https://www.linkedin.com/in/sergi-gallart-fanlo-b73b4433b/)
-- **GitHub:** [Perfil de Github](https://github.com/Sgallartfanlo)
+* **Email:** [gallartfanlos@gmail.com](mailto:gallartfanlos@gmail.com) 📧
+* **Teléfono:** 676 182 318 📱
+* **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/sergi-gallart-fanlo-b73b4433b/)
+* **GitHub:** [Perfil de GitHub](https://github.com/Sgallartfanlo)
+
+---
