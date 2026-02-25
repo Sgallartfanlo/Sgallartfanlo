@@ -42,7 +42,7 @@ Descripció breu del projecte. El que vas aconseguir, quins problemes vas resold
   <img src="https://img.shields.io/badge/-Python-green" />
   <img src="https://img.shields.io/badge/-Bash-yellowgreen" />
 </p>
- #📞 Contacte
+ ##📞 Contacte
 
 Si vols saber més o col·laborar en un projecte, no dubtis en posar-te en contacte amb mi:
 
@@ -50,7 +50,3 @@ Si vols saber més o col·laborar en un projecte, no dubtis en posar-te en conta
 - **Telèfon:** 676 182 318 📱
 - **LinkedIn:** [Perfil de Linkedin](https://www.linkedin.com/in/sergi-gallart-fanlo-b73b4433b/)
 - **GitHub:** [Perfil de Github](https://github.com/Sgallartfanlo)
-
-## 📜 Licència
-
-Aquest portafoli està subjecte a [llicència específica, si en tens una]. Tots els drets reservats. 
