@@ -42,7 +42,7 @@ Descripció breu del projecte. El que vas aconseguir, quins problemes vas resold
   <img src="https://img.shields.io/badge/-Python-green" />
   <img src="https://img.shields.io/badge/-Bash-yellowgreen" />
 </p>
-## 📞 Contacte
+ #📞 Contacte
 
 Si vols saber més o col·laborar en un projecte, no dubtis en posar-te en contacte amb mi:
 
