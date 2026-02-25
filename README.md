@@ -10,9 +10,8 @@ Soy un apasionado de la tecnología y la resolución de problemas. Mi experienci
 
 ### 1. 🌥️ Meteosapa
 
-Descripción breve del proyecto. Lo que lograste, qué problemas resolviste y qué herramientas utilizaste.
-
-* **Tecnologías:** PHP, Python,HTML,CSS
+Desarrollo de una aplicación web para la visualización de datos climáticos obtenidos de una estación meteorológica basada en Arduino. El sistema procesa y muestra en tiempo real variables críticas como temperatura, humedad, presión atmosférica y velocidad del viento. Implementé la lógica para calcular y mostrar estadísticas diarias y mensuales, incluyendo medias de humedad y picos de temperatura, además de la geolocalización de la estación mediante coordenadas UTM.
+* **Tecnologías:** PHP, Python, HTML, CSS
 * **Link al proyecto:** [Enlace al proyecto](https://github.com/Sgallartfanlo/meteosapa)
 
 ### 2. 🔧 [Nombre del proyecto 2](https://www.google.com/search?q=enlace_al_proyecto)
