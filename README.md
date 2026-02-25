@@ -48,8 +48,8 @@ Si vols saber més o col·laborar en un projecte, no dubtis en posar-te en conta
 
 - **Email:** [gallartfanlos@gmail.com](mailto:gallartfanlos@gmail.com) 📧
 - **Telèfon:** 676 182 318 📱
-- **LinkedIn:** [El teu perfil de LinkedIn](https://www.linkedin.com/in/sergi-gallart-fanlo-b73b4433b/)
-- **GitHub:** [El teu perfil de GitHub](https://github.com/Sgallartfanlo)
+- **LinkedIn:** [Perfil de Linkedin](https://www.linkedin.com/in/sergi-gallart-fanlo-b73b4433b/)
+- **GitHub:** [Perfil de Github](https://github.com/Sgallartfanlo)
 
 ## 📜 Licència
 
