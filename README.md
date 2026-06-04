@@ -9,12 +9,6 @@ M'apassiona el món de la infraestructura IT, la virtualització, la seguretat i
 
 ---
 
-## 🚀 Especialitzat en
-
-🐧 Linux • ☸️ Kubernetes • 🐳 Docker • 🔒 Ciberseguretat • 📊 Monitorització • 🤖 Automatització
-
----
-
 # 🛠️ Projectes Destacats
 
 ## 🚀 Projecte Intermodular ASIX
