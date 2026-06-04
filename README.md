@@ -26,7 +26,7 @@ Durante el desarrollo se trabajó con virtualización, automatización, monitori
 Proxmox, Kubernetes, Docker, Ansible, Zabbix, Nagios, Cacti, Suricata, Wazuh, Linux, PHP, HTML, CSS y JavaScript.
 
 **Link al proyecto:**
-https://github.com/AlexMarquess/Projecte-Intermodular-ASIX
+https://github.com/Sgallartfanlo/Projecte-Intermodular-ASIX
 
 ---
 
