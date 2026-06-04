@@ -7,13 +7,6 @@ Sóc **Sergi Gallart Fanlo**, estudiant d'**Administració de Sistemes Informàt
 M'apassiona el món de la infraestructura IT, la virtualització, la seguretat informàtica, la monitorització, l'automatització i les tecnologies cloud. M'agrada treballar amb entorns Linux, desplegar serveis, automatitzar tasques i implementar solucions utilitzades en entorns professionals.
 
 ---
-
-## 🚀 Especialitzat en
-
-🐧 Linux • ☸️ Kubernetes • 🐳 Docker • 🔒 Ciberseguretat • 📊 Monitorització • 🤖 Automatització
-
----
-
 # 🛠️ Projectes Destacats
 
 ## 🚀 Projecte Intermodular ASIX
