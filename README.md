@@ -4,28 +4,45 @@ Benvingut al meu perfil de GitHub!
 
 Sóc **Sergi Gallart Fanlo**, estudiant d'**Administració de Sistemes Informàtics en Xarxa (ASIX)** a l'Institut Sa Palomera de Blanes.
 
+
 M'apassiona el món de la infraestructura IT, la virtualització, la seguretat informàtica, la monitorització, l'automatització i les tecnologies cloud. M'agrada treballar amb entorns Linux, desplegar serveis, automatitzar tasques i implementar solucions utilitzades en entorns professionals.
 
 ---
+
+## 🚀 Especialitzat en
+
+🐧 Linux • ☸️ Kubernetes • 🐳 Docker • 🔒 Ciberseguretat • 📊 Monitorització • 🤖 Automatització
+
+---
+
 # 🛠️ Projectes Destacats
 
 ## 🚀 Projecte Intermodular ASIX
 
 Projecte global desenvolupat durant el cicle formatiu d'ASIX on s'integren diferents tecnologies i serveis habituals en entorns empresarials.
 
-### Inclou
+### Miniprojectes desenvolupats
 
-* ☸️ Kubernetes Bàsic
-* 📊 Monitorització de Xarxes
-* 🔒 Sistema IDS / IPS
-* 🌐 Configurador de Hosting
-* 📋 Gestió del projecte amb metodologia Agile
+- ☸️ Kubernetes Bàsic
+- 📊 Monitorització de Xarxes amb Zabbix, Nagios i Cacti
+- 🔒 Sistema IDS / IPS amb Suricata i Wazuh
+- 🌐 Configurador de Hosting Automatitzat
+- 📋 Gestió del projecte amb metodologia Agile
 
 ### Tecnologies
 
 Kubernetes · Docker · Proxmox · Ansible · Linux · PHP · Zabbix · Nagios · Cacti · Suricata · Wazuh
 
-🔗 Repositori:
+### Competències adquirides
+
+- Orquestració de contenidors
+- Monitorització de sistemes i serveis
+- Seguretat i detecció d'intrusions
+- Automatització amb Ansible
+- Virtualització amb Proxmox
+- Gestió de projectes amb metodologia Agile
+
+🔗 **Repositori:**  
 https://github.com/AlexMarquess/Projecte-Intermodular-ASIX
 
 ---
@@ -42,15 +59,15 @@ Python · Tkinter · PostgreSQL · Debian · SQL
 
 ### Funcionalitats
 
-* Gestió de reserves
-* Gestió de clients
-* Gestió de treballadors
-* Sistema d'autenticació
-* Exportació d'informes
-* Backups automatitzats
-* Alta disponibilitat
+- Gestió de reserves
+- Gestió de clients
+- Gestió de treballadors
+- Sistema d'autenticació
+- Exportació d'informes
+- Backups automatitzats
+- Alta disponibilitat
 
-🔗 Repositori:
+🔗 **Repositori:**  
 https://github.com/Sgallartfanlo/Dataclysm
 
 ---
@@ -65,70 +82,8 @@ Permet consultar dades en temps real i generar estadístiques meteorològiques d
 
 PHP · Python · HTML · CSS
 
-🔗 Repositori:
+🔗 **Repositori:**  
 https://github.com/Sgallartfanlo/meteosapa
-
----
-
-## 🌐 Configurador de Hosting
-
-Aplicació web orientada a automatitzar el desplegament de màquines virtuals i serveis de hosting mitjançant Proxmox i Ansible.
-
-### Tecnologies
-
-PHP · Ansible · Proxmox · Linux · HTML · CSS
-
----
-
-## ☸️ Kubernetes Bàsic
-
-Implementació d'un entorn Kubernetes per comprendre els conceptes fonamentals de l'orquestració de contenidors.
-
-### Tecnologies
-
-Kubernetes · Docker · Linux
-
-### Continguts
-
-* Pods
-* Deployments
-* Services
-* Escalabilitat
-* Xarxes de contenidors
-
----
-
-## 📊 Monitorització de Xarxes
-
-Implementació de diferents eines de monitorització per supervisar servidors, serveis i dispositius de xarxa.
-
-### Tecnologies
-
-Zabbix · Nagios · Cacti · Linux
-
-### Funcionalitats
-
-* Alertes
-* Dashboards
-* Supervisió de serveis
-* Mètriques de rendiment
-
----
-
-## 🔒 Sistema IDS / IPS
-
-Implementació d'un sistema de detecció i prevenció d'intrusions per reforçar la seguretat de la infraestructura.
-
-### Tecnologies
-
-Suricata · Wazuh · Linux
-
-### Funcionalitats
-
-* Detecció d'amenaces
-* Anàlisi de trànsit
-* Alertes de seguretat
-* Correlació d'esdeveniments
 
 ---
 
@@ -140,16 +95,17 @@ Utilitza Synapse com a homeserver i Element com a client web, desplegats mitjan�
 
 ### Tecnologies
 
-Docker · Docker Compose · Matrix Synapse · Element · Linux
+Docker · Docker Compose · Matrix Synapse · Element · Linux · Shell
 
 ### Funcionalitats
 
-* Sales privades
-* Xifrat E2EE
-* Gestió d'usuaris
-* Comunicacions segures
+- Sales privades
+- Xifrat E2EE
+- Gestió d'usuaris
+- Comunicacions segures
+- Desplegament amb Docker Compose
 
-🔗 Repositori:
+🔗 **Repositori:**  
 https://github.com/Sgallartfanlo/Projecte-de-missatgeria-instantania-amb-Matrix
 
 ---
@@ -160,9 +116,9 @@ Implementació d'una plataforma de streaming de vídeo basada en Docker i Nginx 
 
 ### Tecnologies
 
-Docker · Nginx RTMP · Linux
+Docker · Nginx RTMP · Linux · HTML
 
-🔗 Repositori:
+🔗 **Repositori:**  
 https://github.com/Sgallartfanlo/Streaming-de-Video-amb-Nginx-RTMP-i-Docker
 
 ---
@@ -173,9 +129,9 @@ Desplegament d'un servidor de ràdio online utilitzant Icecast dins d'un entorn 
 
 ### Tecnologies
 
-Docker · Icecast · Linux
+Docker · Icecast · Linux · Shell
 
-🔗 Repositori:
+🔗 **Repositori:**  
 https://github.com/Sgallartfanlo/Radio-per-Internet-amb-Icecast-i-Docker
 
 ---
@@ -192,12 +148,13 @@ Python · Django · SQLite · HTML · CSS
 
 ### Funcionalitats
 
-* Django Admin
-* Gestió de jugadors
-* Gestió de títols
-* Migracions de base de dades
+- Django Admin
+- Gestió de jugadors
+- Gestió de títols
+- Migracions de base de dades
+- Aplicació web amb Django
 
-🔗 Repositori:
+🔗 **Repositori:**  
 https://github.com/Sgallartfanlo/Framework-Django-SGF
 
 ---
@@ -210,7 +167,7 @@ Repositori amb exercicis i pràctiques desenvolupades durant la formació per re
 
 Python
 
-🔗 Repositori:
+🔗 **Repositori:**  
 https://github.com/Sgallartfanlo/Exercicis-de-Programacio
 
 ---
@@ -266,13 +223,17 @@ https://github.com/Sgallartfanlo/Exercicis-de-Programacio
 
 # 📫 Contacte
 
-📧 **Email:** [gallartfanlos@gmail.com](mailto:gallartfanlos@gmail.com)
+🌐 **Web personal:**  
+[www.sergigallart.es](https://www.sergigallart.es)
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/sergi-gallart-fanlo-b73b4433b/
+📧 **Email:**  
+[gallartfanlos@gmail.com](mailto:gallartfanlos@gmail.com)
 
-💻 **GitHub:**
-https://github.com/Sgallartfanlo
+💼 **LinkedIn:**  
+[Perfil de LinkedIn](https://www.linkedin.com/in/sergi-gallart-fanlo-b73b4433b/)
+
+💻 **GitHub:**  
+[Perfil de GitHub](https://github.com/Sgallartfanlo)
 
 ---
 
