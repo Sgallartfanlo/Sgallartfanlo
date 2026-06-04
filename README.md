@@ -37,8 +37,7 @@ Kubernetes · Docker · Proxmox · Ansible · Linux · PHP · Zabbix · Nagios �
 - Gestió de projectes amb metodologia Agile
 
 🔗 **Repositori:**  
-https://github.com/AlexMarquess/Projecte-Intermodular-ASIX
-
+https://github.com/Sgallartfanlo/Projecte-Intermodular-ASIX
 ---
 
 ## 🏨 Dataclysm
