@@ -38,6 +38,7 @@ Kubernetes · Docker · Proxmox · Ansible · Linux · PHP · Zabbix · Nagios �
 
 🔗 **Repositori:**  
 https://github.com/Sgallartfanlo/Projecte-Intermodular-ASIX
+
 ---
 
 ## 🏨 Dataclysm
@@ -160,8 +161,8 @@ Repositori amb exercicis i pràctiques desenvolupades durant la formació per re
 
 Python
 
-🔗 **Repositori:**  
-https://github.com/Sgallartfanlo/Exercicis-de-Programacio
+🔗 **Repositori:**
+https://github.com/Sgallartfanlo/Exercicis-de-Progamacio
 
 ---
 
