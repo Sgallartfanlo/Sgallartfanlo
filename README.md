@@ -1,30 +1,32 @@
 <div align="center">
 
-# Sergi Gallart Fanlo
+# 👋 Hola!
 
-`SYS.ADMIN · DEVOPS · INFRASTRUCTURE`
+> **Sergi Gallart Fanlo** · Administrador de Sistemes Informàtics en Xarxa (ASIX) · Institut Sa Palomera de Blanes
 
-Estudiant d'**Administració de Sistemes Informàtics en Xarxa (ASIX)** a l'Institut Sa Palomera de Blanes.
+M'apassiona el món de la infraestructura IT, la virtualització, la seguretat informàtica, la monitorització, l'automatització i les tecnologies cloud.
 
 </div>
 
-```bash
-~ $ whoami
-Sergi Gallart Fanlo — Administrador de Sistemes Informàtics en Xarxa
+---
 
-~ $ cat about.txt
-Sóc estudiant d'ASIX a l'Institut Sa Palomera de Blanes.
-M'apassiona el món de la infraestructura IT, la virtualització,
-la seguretat informàtica, la monitorització, l'automatització i
-les tecnologies cloud.
+## 📊 Estadístiques
 
-> Linux environments
-> Service orchestration
-> Automatic deployments
-> Professional solutions
+<div align="center">
 
-~ $ █
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sgallartfanlo&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sgallartfanlo&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+> [!NOTE]
+> El marc d'anys de sota s'actualitza automàticament. Necessita el workflow de GitHub (`.github/workflows/snake.yml`).
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/Sgallartfanlo/Sgallartfanlo/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -34,17 +36,20 @@ les tecnologies cloud.
 
 Projecte global desenvolupat durant el cicle formatiu d'ASIX on s'integren diferents tecnologies i serveis habituals en entorns empresarials.
 
-### 📦 Miniprojectes desenvolupats
+### Miniprojectes desenvolupats
+
 - ☸️ Kubernetes Bàsic
 - 📊 Monitorització de Xarxes amb Zabbix, Nagios i Cacti
 - 🔒 Sistema IDS / IPS amb Suricata i Wazuh
 - 🌐 Configurador de Hosting Automatitzat
 - 📋 Gestió del projecte amb metodologia Agile
 
-### 🧰 Tecnologies
+### Tecnologies
+
 Kubernetes · Docker · Proxmox · Ansible · Linux · PHP · Zabbix · Nagios · Cacti · Suricata · Wazuh
 
-### 🎯 Competències adquirides
+### Competències adquirides
+
 - Orquestració de contenidors
 - Monitorització de sistemes i serveis
 - Seguretat i detecció d'intrusions
@@ -52,8 +57,7 @@ Kubernetes · Docker · Proxmox · Ansible · Linux · PHP · Zabbix · Nagios �
 - Virtualització amb Proxmox
 - Gestió de projectes amb metodologia Agile
 
-🔗 **Repositori:**
-https://github.com/Sgallartfanlo/Projecte-Intermodular-ASIX
+🔗 **Repositori:** https://github.com/Sgallartfanlo/Projecte-Intermodular-ASIX
 
 ---
 
@@ -63,10 +67,12 @@ Sistema de gestió hotelera desenvolupat com a projecte intermodular.
 
 Permet gestionar hotels, reserves, habitacions, clients, treballadors i serveis des d'una interfície gràfica desenvolupada en Python. La infraestructura incorpora PostgreSQL sobre Debian amb còpies de seguretat automatitzades i arquitectura Actiu-Passiu.
 
-### 🧰 Tecnologies
+### Tecnologies
+
 Python · Tkinter · PostgreSQL · Debian · SQL
 
-### ✨ Funcionalitats
+### Funcionalitats
+
 - Gestió de reserves
 - Gestió de clients
 - Gestió de treballadors
@@ -75,8 +81,7 @@ Python · Tkinter · PostgreSQL · Debian · SQL
 - Backups automatitzats
 - Alta disponibilitat
 
-🔗 **Repositori:**
-https://github.com/Sgallartfanlo/Dataclysm
+🔗 **Repositori:** https://github.com/Sgallartfanlo/Dataclysm
 
 ---
 
@@ -86,11 +91,11 @@ Aplicació web per visualitzar dades meteorològiques obtingudes des d'una estac
 
 Permet consultar dades en temps real i generar estadístiques meteorològiques diàries i mensuals.
 
-### 🧰 Tecnologies
+### Tecnologies
+
 PHP · Python · HTML · CSS
 
-🔗 **Repositori:**
-https://github.com/Sgallartfanlo/meteosapa
+🔗 **Repositori:** https://github.com/Sgallartfanlo/meteosapa
 
 ---
 
@@ -100,18 +105,19 @@ Desplegament d'una plataforma de comunicació descentralitzada basada en Matrix.
 
 Utilitza Synapse com a homeserver i Element com a client web, desplegats mitjançant Docker Compose.
 
-### 🧰 Tecnologies
+### Tecnologies
+
 Docker · Docker Compose · Matrix Synapse · Element · Linux · Shell
 
-### ✨ Funcionalitats
+### Funcionalitats
+
 - Sales privades
 - Xifrat E2EE
 - Gestió d'usuaris
 - Comunicacions segures
 - Desplegament amb Docker Compose
 
-🔗 **Repositori:**
-https://github.com/Sgallartfanlo/Projecte-de-missatgeria-instantania-amb-Matrix
+🔗 **Repositori:** https://github.com/Sgallartfanlo/Projecte-de-missatgeria-instantania-amb-Matrix
 
 ---
 
@@ -119,11 +125,11 @@ https://github.com/Sgallartfanlo/Projecte-de-missatgeria-instantania-amb-Matrix
 
 Implementació d'una plataforma de streaming de vídeo basada en Docker i Nginx RTMP.
 
-### 🧰 Tecnologies
+### Tecnologies
+
 Docker · Nginx RTMP · Linux · HTML
 
-🔗 **Repositori:**
-https://github.com/Sgallartfanlo/Streaming-de-Video-amb-Nginx-RTMP-i-Docker
+🔗 **Repositori:** https://github.com/Sgallartfanlo/Streaming-de-Video-amb-Nginx-RTMP-i-Docker
 
 ---
 
@@ -131,11 +137,11 @@ https://github.com/Sgallartfanlo/Streaming-de-Video-amb-Nginx-RTMP-i-Docker
 
 Desplegament d'un servidor de ràdio online utilitzant Icecast dins d'un entorn Docker.
 
-### 🧰 Tecnologies
+### Tecnologies
+
 Docker · Icecast · Linux · Shell
 
-🔗 **Repositori:**
-https://github.com/Sgallartfanlo/Radio-per-Internet-amb-Icecast-i-Docker
+🔗 **Repositori:** https://github.com/Sgallartfanlo/Radio-per-Internet-amb-Icecast-i-Docker
 
 ---
 
@@ -145,18 +151,19 @@ Aplicació web desenvolupada amb Django per gestionar jugadors del FC Barcelona 
 
 Inclou un panell d'administració complet per gestionar jugadors, competicions i dades esportives.
 
-### 🧰 Tecnologies
+### Tecnologies
+
 Python · Django · SQLite · HTML · CSS
 
-### ✨ Funcionalitats
+### Funcionalitats
+
 - Django Admin
 - Gestió de jugadors
 - Gestió de títols
 - Migracions de base de dades
 - Aplicació web amb Django
 
-🔗 **Repositori:**
-https://github.com/Sgallartfanlo/Framework-Django-SGF
+🔗 **Repositori:** https://github.com/Sgallartfanlo/Framework-Django-SGF
 
 ---
 
@@ -164,11 +171,11 @@ https://github.com/Sgallartfanlo/Framework-Django-SGF
 
 Repositori amb exercicis i pràctiques desenvolupades durant la formació per reforçar coneixements de programació i resolució de problemes.
 
-### 🧰 Tecnologies
+### Tecnologies
+
 Python
 
-🔗 **Repositori:**
-https://github.com/Sgallartfanlo/Exercicis-de-Progamacio
+🔗 **Repositori:** https://github.com/Sgallartfanlo/Exercicis-de-Progamacio
 
 ---
 
@@ -221,18 +228,13 @@ https://github.com/Sgallartfanlo/Exercicis-de-Progamacio
 
 ---
 
-```bash
-~ $ cat contact.md
-Web:      www.sergigallart.es
-Email:    gallartfanlos@gmail.com
-LinkedIn: linkedin.com/in/sergi-gallart-fanlo-b73b4433b/
-GitHub:   github.com/Sgallartfanlo
+# 📫 Contacte
 
-~ $ █
-```
+🌐 **Web personal:** [www.sergigallart.es](https://www.sergigallart.es)
+📧 **Email:** [gallartfanlos@gmail.com](mailto:gallartfanlos@gmail.com)
+💼 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/sergi-gallart-fanlo-b73b4433b/)
+💻 **GitHub:** [Perfil de GitHub](https://github.com/Sgallartfanlo)
 
 ---
 
-<p align="center">
 ⭐ Sempre estic interessat en aprendre noves tecnologies, col·laborar en projectes i continuar creixent dins del món de l'administració de sistemes, la seguretat informàtica i el DevOps.
-</p>
